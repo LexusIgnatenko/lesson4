@@ -84,4 +84,3 @@ function renderStatuses(statuses) {
         trackStatusList.appendChild(item);
     });
 }
-
